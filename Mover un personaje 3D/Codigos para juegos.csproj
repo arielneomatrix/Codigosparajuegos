@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mover un personaje 3D M2.cs" />
+    <Compile Include="Mover un personaje 3D M3 Character Controller.cs" />
     <Compile Include="Mover un personaje 3D Metodo 1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
